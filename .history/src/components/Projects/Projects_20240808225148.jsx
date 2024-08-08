@@ -46,6 +46,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               ghLink="https://github.com/Hardyy00/portfolio"
+              demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
         </Row>

@@ -2,7 +2,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards.jsx";
 import Particle from "../Particle.jsx";
 
-import port from "../../Assets/Projects/port.png";
+import editor from "../../Assets/Projects/port.png";
 import streamers from "../../Assets/Projects/streamers.png";
 import doctor from "../../Assets/Projects/doctor.png";
 
@@ -45,7 +45,8 @@ function Projects() {
               imgPath={port}
               isBlog={false}
               title="Portfolio"
-              ghLink="https://github.com/Hardyy00/portfolio"
+              ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
         </Row>

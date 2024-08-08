@@ -45,7 +45,8 @@ function Projects() {
               imgPath={port}
               isBlog={false}
               title="Portfolio"
-              ghLink="https://github.com/Hardyy00/portfolio"
+              ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
         </Row>
